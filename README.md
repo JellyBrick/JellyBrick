@@ -5,7 +5,7 @@
 ### Language
 
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![D](https://img.shields.io/badge/-d-CE262F?style=for-the-badge&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
