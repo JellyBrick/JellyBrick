@@ -1,5 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+**Hello!** :wave: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJellyBrick&count_bg=%2308C4F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## Skills
 
 ### Language
@@ -21,6 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 ![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![express](https://img.shields.io/badge/-express-339933?style=for-the-badge&logoColor=fff)
+![Koa](https://img.shields.io/badge/-koa-C0C0C0?style=for-the-badge&logoColor=fff)
 ![Drogon](https://img.shields.io/badge/-drogon-000000?style=for-the-badge&logoColor=fff)
 
 ### Frontend
@@ -36,3 +39,5 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
