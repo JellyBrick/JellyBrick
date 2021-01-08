@@ -25,6 +25,7 @@
 ![express](https://img.shields.io/badge/-express-339933?style=for-the-badge&logoColor=fff)
 ![Koa](https://img.shields.io/badge/-koa-C0C0C0?style=for-the-badge&logoColor=fff)
 ![Drogon](https://img.shields.io/badge/-drogon-000000?style=for-the-badge&logoColor=fff)
+![vibe.d](https://img.shields.io/badge/-vibe.d-CE262F?style=for-the-badge&logoColor=fff)
 
 ### Frontend
 
