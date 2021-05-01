@@ -1,6 +1,10 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 **Hello!** :wave: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJellyBrick&count_bg=%2308C4F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<p align="center"><a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord" />
+<img src="https://github-profile-trophy.vercel.app/?username=PresentKim&margin-w=28&margin-h=15&count_private=true&theme=juicyfresh" />
+</p></a></p>
+
 
 ## Skills
 
