@@ -1,12 +1,29 @@
 **Hello!** :wave: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJellyBrick&count_bg=%2308C4F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<p align="center"><a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord" />
-<img src="https://github-profile-trophy.vercel.app/?username=PresentKim&margin-w=28&margin-h=15&count_private=true&theme=juicyfresh" />
-</p></a></p>
+<p align="center">
+  <a href="https://github.com/JellyBrick">
+    <img src="https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord" />
+  </a>
+  <a href="https://profile.codersrank.io/user/jellybrick">
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=JellyBrick&branding=false" width="400"
+/>
+  </a>
+</p>
 
+## Trophy for fun
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JellyBrick&margin-w=12&margin-h=5&count_private=true&theme=nord" />
+</p>
 
 ## Skills
+
+<a href="https://profile.codersrank.io/user/jellybrick">
+  <p align="center">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyBrick&width=820&show-other-skills=false&bg=4C566A" width="300"/>
+  </p>
+</a>
 
 ### Language
 
