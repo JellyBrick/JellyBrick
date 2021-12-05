@@ -11,6 +11,12 @@
   </a>
 </p>
 
+## Personal Project
+
+- [![SingingHaribo](https://img.shields.io/badge/-SingingHaribo%20(노래하는하리보)-0095d5?style=for-the-badge&logoColor=fff)](https://haribosinging.github.io/)
+- [![KiwiTalk](https://img.shields.io/badge/-KiwiTalk-c2ad07?style=for-the-badge&logoColor=fff)](https://github.com/KiwiTalk/KiwiTalk)
+- etc... (Check `Pinned repositories`)
+
 ## Trophy for fun
 
 <p align="center">
