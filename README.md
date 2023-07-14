@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JellyBrick">
-    <img src="https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JellyBrick&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </a>
   <a href="https://profile.codersrank.io/user/jellybrick">
     <img
