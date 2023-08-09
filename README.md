@@ -15,6 +15,8 @@
 
 - [![SingingHaribo](https://img.shields.io/badge/-SingingHaribo%20(노래하는하리보)-0095d5?style=for-the-badge&logoColor=fff)](https://haribosinging.github.io/)
 - [![KiwiTalk](https://img.shields.io/badge/-KiwiTalk-c2ad07?style=for-the-badge&logoColor=fff)](https://github.com/KiwiTalk/KiwiTalk)
+- [![Alspotron](https://img.shields.io/badge/-alspotron-563d7c?style=for-the-badge&logoColor=fff)](https://github.com/organization/alspotron)
+- [![Segu-Font](https://img.shields.io/badge/-segu_font-467ec6?style=for-the-badge&logoColor=fff)](https://github.com/JellyBrick/SeguFont)
 - etc... (Check `Pinned repositories`)
 
 ## Trophy for fun
