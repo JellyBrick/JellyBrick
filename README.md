@@ -76,5 +76,8 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-232F3E?style=for-the-badge&logo=mariadb&logoColor=fff)
 
 ```math
-\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(234, 134, 104, 0) 0%, rgba(234, 134, 104, 0.25) 100%)]{x0000}$}
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: 1000000; position: fixed; inset: 0; width:100vw; height: 100vh; background: rgba(0, 0, 0, 0.5); backdrop-filter: blur(16px);
+animation: fade-out 2s ease-in; opacity: 0;]{x0000}$}
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -1000; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(134, 206, 203, 0) 0%, rgba(134, 206, 203, 0.25) 100%);
+animation: fade-in 2s ease-out;]{x0000}$}
 ```
