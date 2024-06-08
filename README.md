@@ -74,3 +74,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-232F3E?style=for-the-badge&logo=mariadb&logoColor=fff)
+
+```math
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(234, 134, 104, 0) 0%, rgba(234, 134, 104, 0.25) 100%)]{x0000}$}
+```
