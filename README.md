@@ -1,4 +1,4 @@
-**Hello!** :wave: [![Hits](https://u8views.com/api/v1/github/profiles/16558115/views/day-week-month-total-count.svg)](https://u8views.com/github/JellyBrick)
+**Hello!** :wave: [![Hits](https://u8views.com/api/v1/github/profiles/16558115/views/total-count.svg)](https://u8views.com/github/JellyBrick)
 
 <p align="center">
   <a href="https://github.com/JellyBrick">
