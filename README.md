@@ -1,4 +1,4 @@
-**Hello!** :wave: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJellyBrick&count_bg=%2308C4F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+**Hello!** :wave: [![Hits](https://u8views.com/api/v1/github/profiles/16558115/views/day-week-month-total-count.svg)](https://u8views.com/github/JellyBrick)
 
 <p align="center">
   <a href="https://github.com/JellyBrick">
@@ -16,7 +16,6 @@
 - [![SingingHaribo](https://img.shields.io/badge/-SingingHaribo%20(노래하는하리보)-0095d5?style=for-the-badge&logoColor=fff)](https://haribosinging.github.io/)
 - [![KiwiTalk](https://img.shields.io/badge/-KiwiTalk-c2ad07?style=for-the-badge&logoColor=fff)](https://github.com/KiwiTalk/KiwiTalk)
 - [![Alspotron](https://img.shields.io/badge/-alspotron-563d7c?style=for-the-badge&logoColor=fff)](https://github.com/organization/alspotron)
-- [![Segu-Font](https://img.shields.io/badge/-segu_font-467ec6?style=for-the-badge&logoColor=fff)](https://github.com/JellyBrick/SeguFont)
 - etc... (Check `Pinned repositories`)
 
 ## Trophy for fun
